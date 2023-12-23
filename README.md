@@ -1,8 +1,8 @@
-This is a python implementation of the paper ["Isosurface Stuffing: Fast Tetrahedral Meshes with Good Dihedral Angles"] (https://people.eecs.berkeley.edu/~jrs/papers/stuffing.pdf) by Francois Labelle and Jonathan Richard Shewchuk. 
-I presented this paper for a seminar class at the University of Toronto, CSC2521H F LEC0101 20239:Topics in Computer Graphics [(slides)] (https://docs.google.com/presentation/d/1WuqLdbZxxjciPJtAtCY0-Ib0-9lGPAWLHyPGDAdHvlg/edit?usp=sharing). 
+This is a python implementation of the paper ["Isosurface Stuffing: Fast Tetrahedral Meshes with Good Dihedral Angles"](https://people.eecs.berkeley.edu/~jrs/papers/stuffing.pdf) by Francois Labelle and Jonathan Richard Shewchuk. 
+I presented this paper for a seminar class at the University of Toronto, CSC2521H F LEC0101 20239:Topics in Computer Graphics [(slides)](https://docs.google.com/presentation/d/1WuqLdbZxxjciPJtAtCY0-Ib0-9lGPAWLHyPGDAdHvlg/edit?usp=sharing). 
 
 
-Isosurface stuffing generates tetrahedral meshes from implicit surfaces. The dihedral angles of the tetrahedra produced are suaranteed to lie between 10.7&deg; and 164.8&deg;
+Isosurface stuffing generates tetrahedral meshes from implicit surfaces. The dihedral angles of the tetrahedra produced are guaranteed to lie between 10.7&deg; and 164.8&deg;
 
 
 ### Running the code
